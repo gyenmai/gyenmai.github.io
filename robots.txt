@@ -1,0 +1,7 @@
+User-Agent: Googlebot
+Disallow: 
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://gyenmai.github.io/sitemap/sitemap.txt
